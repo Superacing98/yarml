@@ -1,6 +1,7 @@
 # IDE & Virtual Environment
 .idea/
 venv/
+.env/
 
 # MacOS
 .DS_Store
@@ -12,6 +13,9 @@ venv/
 
 # Prebuilt Database
 dbs/
+
+#Dataset
+dataset/
 
 # YARA Rules
 yargen_rules.yar
