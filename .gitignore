@@ -17,5 +17,8 @@ dbs/
 #Dataset
 dataset/
 
+#Results
+results/
+
 # YARA Rules
 yargen_rules.yar
