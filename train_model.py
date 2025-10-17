@@ -5,8 +5,8 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 import os
 import joblib
 
-INPUT_CSV = 'dataset\\features_dataset.csv'
-MODEL_OUTPUT_FILE = 'model\\yara_string_scorer.joblib'
+INPUT_CSV = 'dataset\\features_dataset_v2.csv'
+MODEL_OUTPUT_FILE = 'model\\yara_string_scorer_v2.joblib'
 
 print("Addestramento del modello...")
 
